@@ -4,8 +4,4 @@
 #### Pip install -r requirements.txt
 #### python ChatBot.py
 
-Terminal based Chatbot :
-![Image of output](https://github.com/datamagic2020/Chatbot-for-Biginners/blob/main/chatbot.png)
-
-UI Based Chatbot :
-![Image of output](https://github.com/datamagic2020/Chatbot-for-Biginners/blob/main/ui%20chatbot%20thumb.png)
+UI AI chatbot(source dir):[https://github.com/nithish182/JATinBOT-main.git]
